@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@coinbase/wallet-sdk": "^3.3.0",
     "@sanity/image-url": "^1.0.1",
     "@thirdweb-dev/react": "^2.4.2",
     "@thirdweb-dev/sdk": "^2.3.14",
